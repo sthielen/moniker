@@ -190,9 +190,7 @@ asianwaterbuffalo
 asiaticgreaterfreshwaterclam
 asiaticlesserfreshwaterclam
 asiaticmouflon
-asiaticwildass
 asp
-ass
 assassinbug
 astarte
 astrangiacoral
@@ -225,7 +223,6 @@ azurevase
 azurevasesponge
 azurewingedmagpie
 babirusa
-baboon
 backswimmer
 bactrian
 badger
@@ -260,7 +257,6 @@ bear
 beardedcollie
 beardeddragon
 beauceron
-beaver
 bedbug
 bedlingtonterrier
 bee
@@ -328,10 +324,8 @@ bobwhite
 boilweevil
 bongo
 bonobo
-booby
 bordercollie
 borderterrier
-borer
 borzoi
 boto
 boubou
@@ -342,7 +336,6 @@ brahmancow
 brant
 bream
 brocketdeer
-bronco
 brontosaurus
 brownbear
 brownbutterfly
@@ -363,7 +356,6 @@ bunting
 burro
 bushbaby
 bushsqueaker
-bustard
 butterfly
 buzzard
 caecilian
@@ -399,9 +391,7 @@ chamois
 chanticleer
 cheetah
 chevrotain
-chick
 chickadee
-chicken
 chihuahua
 chimneyswift
 chimpanzee
@@ -424,11 +414,9 @@ clumber
 coati
 cob
 cobra
-cock
 cockatiel
 cockatoo
 cockerspaniel
-cockroach
 cod
 coelacanth
 collardlizard
@@ -443,7 +431,6 @@ coney
 conure
 cony
 coot
-cooter
 copepod
 copperbutterfly
 copperhead
@@ -500,10 +487,7 @@ degu
 degus
 deinonychus
 desertpupfish
-devilfish
-deviltasmanian
 diamondbackrattlesnake
-dikdik
 dikkops
 dingo
 dinosaur
@@ -512,7 +496,6 @@ dipper
 discus
 dobermanpinscher
 doctorfish
-dodo
 dodobird
 doe
 dog
@@ -543,7 +526,6 @@ duckbillplatypus
 duckling
 dugong
 duiker
-dungbeetle
 dungenesscrab
 dunlin
 dunnart
@@ -1306,7 +1288,6 @@ pupa
 pupfish
 puppy
 purplemarten
-pussycat
 pygmy
 python
 quadrisectus
@@ -1390,7 +1371,6 @@ sandbarshark
 sanddollar
 sanderling
 sandpiper
-sapsucker
 sardine
 sawfish
 scallop
@@ -1501,14 +1481,12 @@ stinkpot
 stoat
 stonefly
 stork
-stud
 sturgeon
 sugarglider
 sulphurbutterfly
 sunbear
 sunbittern
 sunfish
-swallow
 swallowtail
 swallowtailbutterfly
 swan
@@ -1673,7 +1651,6 @@ wolverine
 wombat
 woodborer
 woodchuck
-woodcock
 woodnymphbutterfly
 woodpecker
 woodstorks
